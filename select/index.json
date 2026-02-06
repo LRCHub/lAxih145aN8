@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "もどかしい日々",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T21:06:27.459493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もどかしい日々",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/01_もどかしい日々_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もどかしい日々",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/02_もどかしい日々_サカナクション.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もどかしい日々",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_もどかしい日々_サカナクション.txt"
+    }
+  ]
+}
